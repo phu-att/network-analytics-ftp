@@ -27,6 +27,7 @@ from 2010 - 2020
 network-analytics-ftp
 ├── LICENSE
 ├── README.md
+├── requirements.txt
 ├── companion_document.pdf
 ├── presentation.pdf
 ├── datasets
@@ -37,3 +38,5 @@ network-analytics-ftp
 ```
 
 ## File Description
+* ```requirements.txt`` -> Required Python libraries 
+*
