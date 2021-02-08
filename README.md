@@ -20,9 +20,21 @@ and tools:
 * The Github repo [`ewenme/trasnfers`](https://github.com/ewenme/transfers)
 contains updated, longitudinal data on moves involving male professional
 football players in the major European championships.
-* Also self-generated excel file containing ranking of teams in tier 1 leagues
-from 2010 - 2020
+* Self-generated excel file containing ranking of teams in tier 1 leagues
+from 2010 - 2020 
 
 ## Directory Structure
+``` bash
+.
+├── LICENSE
+├── README.md
+├── companion_document.pdf
+├── presentation.pdf
+├── datasets
+│   ├── football_dataset_final.xlsx
+│   └── tier1_team_performance.xlsx
+└── scripts
+    └── 00_analysis.ipynb
+```
 
 ## File Description
