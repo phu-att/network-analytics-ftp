@@ -1,5 +1,4 @@
 # Network Analytics 
-Network Analytics football analysis
 
 ## Introduction
 This project deals with the topics of homophily, closure, and
@@ -25,7 +24,7 @@ from 2010 - 2020
 
 ## Directory Structure
 ``` bash
-.
+network-analytics-ftp
 ├── LICENSE
 ├── README.md
 ├── companion_document.pdf
