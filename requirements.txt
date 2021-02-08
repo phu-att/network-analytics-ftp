@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlip
+scipy
+Networkx
+statsmodels
