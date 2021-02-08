@@ -38,5 +38,11 @@ network-analytics-ftp
 ```
 
 ## File Description
-* ```requirements.txt`` -> Required Python libraries 
-*
+* ```requirements.txt``` -> Required Python libraries 
+* ```companion_document.pdf``` -> Document that explains rational and analysis of the project
+* ```presentation.pdf``` -> Slideshow that shows a holistic view of the project 
+### datasets
+* ```football_dataset_final.xlsx``` -> The mentioned football data, but not required to download to run the code
+* ```tier1_team_performance.xlsx``` -> The perfomance of the tier 1 teams spanning over 11 years
+### scripts
+* ```00_analysis.ipynb``` -> The code contains data processing process & conducted analysis, including all outputs shown in the companion document 
