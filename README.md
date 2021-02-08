@@ -2,8 +2,18 @@
 Network Analytics football analysis
 
 
-a/
-└── b
-    ├── b1,
-    ├── b2,
-    └── b3,
+''' bash 
+a
+└── {b
+    └── {b1
+        ├── b2,
+        ├── b3,
+        └── b4,
+
+
+
+
+
+
+
+'''
