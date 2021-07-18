@@ -45,4 +45,9 @@ network-analytics-ftp
 * ```football_dataset_final.xlsx``` -> The mentioned football data, but not required to download to run the code
 * ```tier1_team_performance.xlsx``` -> The perfomance of the tier 1 teams spanning over 11 years
 ### scripts
-* ```00_analysis.ipynb``` -> The code contains data processing process & conducted analysis, including all outputs shown in the companion document 
+* ```web-scraping-npl.py ``` -> This script focuses on extracting texts from articles in the Uber People Forums website
+* ```topic-modelling.py``` -> This script focuses on applying topic modeling (LDA) on the data gathered, denoting Part 1 of the project
+* ```coherence_eval.py ``` -> This script focuses on the implementation of the coherence score that statistically evaluates the number of topics
+* ```semantic-axis-analysis.py ``` -> This script aims to analyse affective states represented in Uber drivers’ conversation, denoting Part 2 of the project. The method adopted to perform the analysis is the Semantic axis Method (SAM). The file also incorporates topic modelling for time-series analysis, denoting Part 3 of the project
+
+
